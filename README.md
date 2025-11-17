@@ -28,7 +28,7 @@ Place the character in the level.
 Press Play to test idle, walk, and run animations based on character movement.
 ## Output
 
-<img width="1031" height="617" alt="image" src="https://github.com/user-attachments/assets/c0eedb6c-0dbc-4991-a6d4-c86eaa85168a" />
+<img width="1008" height="661" alt="image" src="https://github.com/user-attachments/assets/de167448-face-4729-812f-b0403b24dcf1" />
 
 <img width="1031" height="617" alt="image" src="https://github.com/user-attachments/assets/8fbe0260-5949-49b4-9f79-b1060235faa4" />
 
